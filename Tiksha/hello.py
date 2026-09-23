@@ -1,0 +1,6 @@
+print("=== Student Profile ===")
+print("Name: Tiksha")
+print("Goal: Master Python and GitHub")
+print("Role: Beginner to Pro Developer")
+print("Language: Python 🐍")
+print("Status: Day 1 - Ready to Learn & Build!")
