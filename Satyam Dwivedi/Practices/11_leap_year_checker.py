@@ -11,9 +11,9 @@ if condition1st == 0:
     print(f"{year} is a leap year.")
 elif condition2st == 0:
     # print not a leap year
-    print(f"{year} is not a leat year.")
+    print(f"{year} is not a leap year.")
 elif condition3st == 0:
     # print a leap year
     print(f"{year} is a leap year.")
 else:
-    print(f"{year} is not a leat year.")
+    print(f"{year} is not a leap year.")
