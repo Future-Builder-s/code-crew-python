@@ -1,0 +1,5 @@
+#Q69. Fix the code so the variable `age` contains an integer instead of a string. Then print its type.
+
+age = "6"
+age1 = int(age)
+print(type(age1))
